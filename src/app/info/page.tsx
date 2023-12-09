@@ -16,7 +16,8 @@ export default function page() {
                 <li>Bantrab ahorro 1233320399</li>
             </ul>
             <p>
-                Nombre: <strong>Julio Rubén Sanic Martínez</strong>
+                Nombre: <strong>Julio Rubén Sanic Martínez</strong> <br />
+                Mandar boleta - Cel: <strong> 5838-5370</strong>
             </p>
         </div>
       </div>
